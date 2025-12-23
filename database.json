@@ -1,0 +1,52 @@
+{
+    "users": {
+        "6722257134": {
+            "stars": 0,
+            "invited": [],
+            "joined": true
+        },
+        "8091936694": {
+            "stars": 0,
+            "invited": [
+                "8218341683",
+                "8328925696",
+                "8282475626"
+            ],
+            "joined": true
+        },
+        "8218341683": {
+            "stars": 0,
+            "invited": [],
+            "joined": false
+        },
+        "8328925696": {
+            "stars": 0,
+            "invited": [],
+            "joined": true
+        },
+        "8282475626": {
+            "stars": 0,
+            "invited": [],
+            "joined": true
+        },
+        "6138428310": {
+            "stars": 0,
+            "invited": [],
+            "joined": true
+        },
+        "8586756626": {
+            "stars": 0,
+            "invited": [],
+            "joined": true
+        }
+    },
+    "channels": [],
+    "admins": [
+        6722257134,
+        6138428310
+    ],
+    "ref_price": 15,
+    "min_withdraw": 15,
+    "support": "\u2b05\ufe0f Orqaga",
+    "withdraw_requests": []
+}
